@@ -7,4 +7,4 @@ Sci-Tech and World. For each topic, I will:
 1. Conduct tf-idf analysis to find which words are associated most with the labels.
 2. Perform topic modeling to find unsupervisedly sub-topics by using LDA method.
 
-Two of objectives above could be used for a model that predicts labels or recommends related news.
+Two of objectives above could be used as features for a label prediction model and a recomendation system.
